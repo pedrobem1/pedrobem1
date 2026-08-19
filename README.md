@@ -1,4 +1,4 @@
-```markdown
+
 # Pedro Higino
 
 Computer Engineering student at **UNICAMP**, focused on **Software Engineering, Backend Development, and AI-powered applications**.
@@ -11,4 +11,3 @@ Computer Engineering student at **UNICAMP**, focused on **Software Engineering, 
 `OpenAI API` `LLMs` `Embeddings` `RabbitMQ` `AWS` `Git`
 
 > Consolidating projects from previous GitHub accounts into this profile.
-```
