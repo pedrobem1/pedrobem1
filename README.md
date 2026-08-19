@@ -1,16 +1,14 @@
-## Hi there 👋
+```markdown
+# Pedro Higino
 
-<!--
-**pedrobem1/pedrobem1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at **UNICAMP**, focused on **Software Engineering, Backend Development, and AI-powered applications**.
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/pedro-higino/) 
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` `Java` `TypeScript` `C` `SQL`  
+`FastAPI` `Spring Boot` `Next.js` `PostgreSQL` `pgvector`  
+`OpenAI API` `LLMs` `Embeddings` `RabbitMQ` `AWS` `Git`
+
+> Consolidating projects from previous GitHub accounts into this profile.
+```
