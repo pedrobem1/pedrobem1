@@ -1,5 +1,5 @@
 
-# Pedro Higino
+# Pedro H. Bem
 
 Computer Engineering student at **UNICAMP**, focused on **Software Engineering, Backend Development, and AI-powered applications**.
 
